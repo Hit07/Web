@@ -1,0 +1,20 @@
+
+h1 {
+    color: rgb(81, 81, 161);
+    font-family: verdana;
+    font-size: 300%;
+  }
+  body {
+    color: rgb(5, 5, 5);
+    font-family: courier;
+    border: 2px solid rgb(207, 238, 246);
+    border-spacing: 3px;
+    padding: 2px;
+    text-align: left;
+}
+img {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
